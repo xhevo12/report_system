@@ -17,6 +17,7 @@ Project is created with:
 * HTML5      
 * Bootstrap   :4.3.1
 * jquery.js   :3.5.1
+* Css
 * Mysql
 * Visual Code(Editor)
 * Xampp
